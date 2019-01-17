@@ -2,20 +2,22 @@
 
 ### Contents
 
-* Resources
+#### Resources
 
-    - [RFC 1034 (Domain names - concepts and facilities)](RFC/rfc1034.txt)
-    - [RFC 1035 (Domain names - implementation and specification)](RFC/rfc1035.txt)
-    - [RFC 5936 (DNS Zone Transfer Protocol (AXFR))](RFC/rfc5936.txt)
-    - [RFC 1995 (Incremental Zone Transfer in DNS)](RFC/rfc1995.txt)
-    - [RFC 1996 (A Mechanism for Prompt Notification of Zone Changes (DNS NOTIFY))](RFC/rfc1996.txt)
-    - [RFC 7719 (DNS Terminology)](RFC/rfc7719.txt)
-    - [RFC 3912 (WHOIS Protocol Specification)](RFC/rfc3912.txt)
-    - [RFC 2182 (Selection and Operation of Secondary DNS Servers)](RFC/rfc2182.txt)
-    - [RFC 2317 (Classless IN-ADDR.ARPA delegation)](RFC/rfc2317.txt)
-    - [RFC 2782 (A DNS RR for specifying the location of services (DNS SRV))](RFC/rfc2782.txt)
-    - [RFC 4592 (The Role of Wildcards in the Domain Name System.)](RFC/rfc4592.txt)
-    - [RFC 2308 (Negative Caching of DNS Queries (DNS NCACHE))](RFC/rfc2308.txt)
-    - [RFC 2181 (Clarifications to the DNS Specification)](RFC/rfc2181.txt)
-    - [RFC 6891 (Extension Mechanisms for DNS (EDNS(0)))](RFC/rfc6891.txt)
-    - [RFC 4697 (Observed DNS Resolution Misbehavior)](RFC/rfc4697.txt)
+* **List of RFCs** 
+
+    - [RFC1034(Domainnames    - conceptsandfacilities)](RFC/rfc1034.txt)
+    - [RFC1035(Domainnames    - implementationandspecification)](RFC/rfc1035.txt)
+    - [RFC5936(DNSZoneTransferProtocol(AXFR))](RFC/rfc5936.txt)
+    - [RFC1995(IncrementalZoneTransferinDNS)](RFC/rfc1995.txt)
+    - [RFC1996(AMechanismforPromptNotificationofZoneChanges(DNSNOTIFY))](RFC/rfc1996.txt)
+    - [RFC7719(DNSTerminology)](RFC/rfc7719.txt)
+    - [RFC3912(WHOISProtocolSpecification)](RFC/rfc3912.txt)
+    - [RFC2182(SelectionandOperationofSecondaryDNSServers)](RFC/rfc2182.txt)
+    - [RFC2317(ClasslessIN    - ADDR.ARPAdelegation)](RFC/rfc2317.txt)
+    - [RFC2782(ADNSRRforspecifyingthelocationofservices(DNSSRV))](RFC/rfc2782.txt)
+    - [RFC4592(TheRoleofWildcardsintheDomainNameSystem.)](RFC/rfc4592.txt)
+    - [RFC2308(NegativeCachingofDNSQueries(DNSNCACHE))](RFC/rfc2308.txt)
+    - [RFC2181(ClarificationstotheDNSSpecification)](RFC/rfc2181.txt)
+    - [RFC6891(ExtensionMechanismsforDNS(EDNS(0)))](RFC/rfc6891.txt)
+    - [RFC4697(ObservedDNSResolutionMisbehavior)](RFC/rfc4697.txt)
